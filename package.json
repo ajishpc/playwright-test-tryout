@@ -1,0 +1,22 @@
+{
+  "name": "playwright-test-tryout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajishpc/playwright-test-tryout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajishpc/playwright-test-tryout/issues"
+  },
+  "homepage": "https://github.com/ajishpc/playwright-test-tryout#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.7"
+  }
+}
